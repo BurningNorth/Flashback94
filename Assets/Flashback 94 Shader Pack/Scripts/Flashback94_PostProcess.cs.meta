@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c1685ed3ad7a4dd44bad0ae90bc8b5e6
+labels:
+- Flashback94
+- Retro
+- PostProcess
+- Pixelated
+- Script
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - colorShader: {fileID: 4800000, guid: 20a61a9468b50194c90a5dbbfb0564d7, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

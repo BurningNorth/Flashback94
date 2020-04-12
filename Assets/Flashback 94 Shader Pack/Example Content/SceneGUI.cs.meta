@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 2327a8006262f9940a282bdac083840e
+timeCreated: 1470520624
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - cubeDiff: {fileID: 2100000, guid: 26aca32153de46c44977e9f834cfccd5, type: 2}
+  - cubeSpec: {fileID: 2100000, guid: 63f21cff5bec0f44bb5d447473d9cfd2, type: 2}
+  - cubeUnlit: {fileID: 2100000, guid: 42a93bd167a6c2543ad0d4395cd2fb33, type: 2}
+  - cutoutDiff: {fileID: 2100000, guid: 224497ff325e5124b96d444297ef8e59, type: 2}
+  - cutoutSpec: {fileID: 2100000, guid: 519b02009c295d54eb2825db4bce27a6, type: 2}
+  - cutoutUnlit: {fileID: 2100000, guid: 8cc2313a6a6528e45b94b666ab358596, type: 2}
+  - opaqueDiff: {fileID: 2100000, guid: 0cd9336a1b5ab9d4fb0bce55079c0577, type: 2}
+  - opaqueSpec: {fileID: 2100000, guid: 8ba0137198c534245a8e444f57c5253f, type: 2}
+  - opaqueUnlit: {fileID: 2100000, guid: b01c4b183b3ab294c8a0c2e1f4fa985a, type: 2}
+  - rimDiff: {fileID: 2100000, guid: c901fa41d8107144b9eab0cf7b9f92fb, type: 2}
+  - rimSpec: {fileID: 2100000, guid: 29775bd666d4aa740bccf0ee3fe1ae2a, type: 2}
+  - rimUnlit: {fileID: 2100000, guid: 3677c00d537f8fa46858b2b1d5bf60b6, type: 2}
+  - transDiff: {fileID: 2100000, guid: aea352154561664458f9f060a428e229, type: 2}
+  - transSpec: {fileID: 2100000, guid: 4dce3835eabb1b542bd6c87e0f1b6f2d, type: 2}
+  - transUnlit: {fileID: 2100000, guid: a3c6706db61608b4b8e97b6e4b8488a9, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
